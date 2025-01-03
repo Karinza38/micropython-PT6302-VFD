@@ -1,4 +1,4 @@
-# Reusing the VFD of Belgacom Decoder V4 (aka Proximus TV) with Raspberry-Pi Pico and MicroPython
+ # Reusing the VFD of Belgacom Decoder V4 (aka Proximus TV) with Raspberry-Pi Pico and MicroPython
 
 ![Proximus TV DEcoder VFD PT6302 driver with MicroPython](docs/_static/VFD-PT6302-proximus-TV-intro.jpg)
 
